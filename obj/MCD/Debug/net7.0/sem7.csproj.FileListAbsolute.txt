@@ -1,0 +1,15 @@
+C:\Users\ГИК\Desktop\sem7\obj\MCD\Debug\net7.0\sem7.csproj.AssemblyReference.cache
+C:\Users\ГИК\Desktop\sem7\obj\MCD\Debug\net7.0\sem7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГИК\Desktop\sem7\obj\MCD\Debug\net7.0\sem7.AssemblyInfoInputs.cache
+C:\Users\ГИК\Desktop\sem7\obj\MCD\Debug\net7.0\sem7.AssemblyInfo.cs
+C:\Users\ГИК\Desktop\sem7\obj\MCD\Debug\net7.0\sem7.csproj.CoreCompileInputs.cache
+C:\Users\ГИК\Desktop\sem7\bin\MCD\Debug\net7.0\sem7.exe
+C:\Users\ГИК\Desktop\sem7\bin\MCD\Debug\net7.0\sem7.deps.json
+C:\Users\ГИК\Desktop\sem7\bin\MCD\Debug\net7.0\sem7.runtimeconfig.json
+C:\Users\ГИК\Desktop\sem7\bin\MCD\Debug\net7.0\sem7.dll
+C:\Users\ГИК\Desktop\sem7\bin\MCD\Debug\net7.0\sem7.pdb
+C:\Users\ГИК\Desktop\sem7\obj\MCD\Debug\net7.0\sem7.dll
+C:\Users\ГИК\Desktop\sem7\obj\MCD\Debug\net7.0\refint\sem7.dll
+C:\Users\ГИК\Desktop\sem7\obj\MCD\Debug\net7.0\sem7.pdb
+C:\Users\ГИК\Desktop\sem7\obj\MCD\Debug\net7.0\sem7.genruntimeconfig.cache
+C:\Users\ГИК\Desktop\sem7\obj\MCD\Debug\net7.0\ref\sem7.dll
